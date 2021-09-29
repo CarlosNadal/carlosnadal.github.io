@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosNadal I´m 33 from Uruguay!
-- 👀 I’m interested in Web Ddevelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end development and i´m looking forward to become a full-stack!
 - 💞️ I’m looking to learn as much as I can from everybody
 - 📫 How to reach me carlitosnadalfiuri05@gmail.com
