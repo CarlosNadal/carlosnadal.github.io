@@ -1,8 +1,38 @@
-Hello and welcome to my GitHub profile! My name is Carlos, and I am a front-end developer. Here on my profile, you will find a collection of my personal projects.
-I am passionate about using technology to solve complex problems, and I am always looking for new challenges to tackle.
-Feel free to explore my repositories, and if you have any questions or suggestions, please don't hesitate to get in touch. 
-Thank you for stopping by!
-<!---
-CarlosNadal/CarlosNadal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi there, I'm Carlos Nadal!
+
+🔒 Cybersecurity Analyst | Holberton School Graduate | Ethical Hacker | Security Enthusiast
+
+## 🛡️ About Me
+- 🎓 Graduated from **Holberton School's Cybersecurity Specialization** program
+- 🔭 Passionate about securing systems, networks, and applications
+- 🌱 Continuously learning about new security threats and defense mechanisms
+- 💡 Interested in ethical hacking, penetration testing, and security research
+- 🚀 Working towards OSCP
+
+## 🔧 Technical Skills
+### 🛠️ Security Tools
+- Burp Suite | Metasploit | Nmap | Wireshark | John the Ripper 
+### 🔐 Security Domains
+- Network Security | Web Application Security | Cryptography | Vulnerability Assessment | AD
+### 💻 Programming
+- Python | Bash 
+
+
+## 🏆 Projects
+Here are some security-related projects I've worked on
+1. **[Securing Emails with YARA and Sigma rules]** Implement SIEM solutions for real-time email threat detection 
+
+## 📝 Certifications
+- Holberton School Cybersecurity Specialization
+
+## 📚 Currently Learning
+- [Cloud Pentesting AWS] 
+- [Wi-Fi Pentesting] 
+
+## 📫 How to Reach Me
+- LinkedIn: [/cnadal5]
+- Email: [carlitosnadalfiuri05@gmail.com] 
+
+---
+
+⚡ **I hacking there's is no top of the mountain, there's always something new to learn.** ⚡
