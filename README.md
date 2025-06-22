@@ -20,7 +20,7 @@
 
 ## 🏆 Projects
 Here are some security-related projects I've worked on
-1. **[Securing Emails with YARA and Sigma rules]** Implement SIEM solutions for real-time email threat detection 
+1. [Securing Emails with YARA and Sigma rules] Implement SIEM solutions for real-time email threat detection 
 
 ## 📝 Certifications
 - Holberton School Cybersecurity Specialization
