@@ -20,19 +20,19 @@
 
 ## 🏆 Projects
 Here are some security-related projects I've worked on
-1. [Securing Emails with YARA and Sigma rules] Implement SIEM solutions for real-time email threat detection 
+1. **Securing Emails with YARA and Sigma rules** Implement SIEM solutions for real-time email threat detection 
 
 ## 📝 Certifications
 - Holberton School Cybersecurity Specialization
 
 ## 📚 Currently Learning
-- [Cloud Pentesting AWS] 
-- [Wi-Fi Pentesting] 
+- Cloud Pentesting AWS
+- Wi-Fi Pentesting 
 
 ## 📫 How to Reach Me
-- LinkedIn: [/cnadal5]
-- Email: [carlitosnadalfiuri05@gmail.com] 
+- LinkedIn: /cnadal5
+- Email: carlitosnadalfiuri05@gmail.com 
 
 ---
 
-⚡ **I hacking there's is no top of the mountain, there's always something new to learn.** ⚡
+⚡ **In hacking there's is no top of the mountain, there's always something new to learn.** ⚡
